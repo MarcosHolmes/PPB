@@ -47,7 +47,7 @@ segundo sea mayor o igual que el primero.
 18.- Hacer un programa que cuente las veces que aparece una determinada letra en una frase
 que introduciremos por teclado.
 
-2 de 419.- Hacer un programa que simule el funcionamiento de un reloj digital y que permita ponerlo en
+19.- Hacer un programa que simule el funcionamiento de un reloj digital y que permita ponerlo en
 hora.
 
 20.- Calcular el factorial de un número, mediante funciones.
