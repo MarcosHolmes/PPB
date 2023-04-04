@@ -1,4 +1,4 @@
-const n = Math.floor(Math.random() * 10 + 1);
+const n = Math.floor(Math.random() * 10);
 
 for(let i=0; i<=10; i++){
     r = n*i
